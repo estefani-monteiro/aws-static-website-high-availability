@@ -110,18 +110,6 @@ Durante o desenvolvimento deste laboratório foi possível compreender, na prát
 
 ---
 
-## 🛠️ Tecnologias e Serviços
-
-* AWS
-* Amazon S3
-* Amazon CloudFront
-* Origin Access Control (OAC)
-* Bucket Policy
-* HTML
-
----
-
-
 ## 👩‍💻 Autora
 
 **Estéfani Monteiro**

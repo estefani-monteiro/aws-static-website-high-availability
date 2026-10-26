@@ -5,15 +5,15 @@ Projeto prático desenvolvido na AWS para implementar uma arquitetura de hospeda
 ---
 
 ## 📌 Visão Geral
-* ☁️ Amazon S3 para armazenamento de arquivos estáticos
-* 🌍 Amazon CloudFront para distribuição global de conteúdo (CDN)
-* 🔒 Origin Access Control (OAC) para acesso seguro à origem
-* 🛡️ Bucket privado, sem acesso público
-* ⚡ Menor latência e melhor desempenho para os usuários
+* Amazon S3 para armazenamento de arquivos estáticos
+* Amazon CloudFront para distribuição global de conteúdo (CDN)
+* Origin Access Control (OAC) para acesso seguro à origem
+* Bucket privado, sem acesso público
+* Menor latência e melhor desempenho para os usuários
 
 ---
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 Este laboratório demonstra a implementação de uma arquitetura para hospedagem de um site estático utilizando serviços nativos da AWS.
 
@@ -23,7 +23,7 @@ Além de reforçar a segurança da infraestrutura, essa arquitetura proporciona 
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 * Hospedar um site estático utilizando o Amazon S3.
 * Manter o bucket privado, sem acesso público.
@@ -33,7 +33,7 @@ Além de reforçar a segurança da infraestrutura, essa arquitetura proporciona 
 
 ---
 
-## ☁️ Serviços AWS Utilizados
+## Serviços AWS Utilizados
 
 * Amazon S3
 * Amazon CloudFront
@@ -42,7 +42,7 @@ Além de reforçar a segurança da infraestrutura, essa arquitetura proporciona 
 
 ---
 
-## 🚀 Etapas da Implementação
+## Etapas da Implementação
 
 ### 1. Configuração do Amazon S3
 
@@ -78,7 +78,7 @@ A validação confirmou que o conteúdo foi entregue corretamente pela CDN, mant
 
 ---
 
-## ✅ Resultados Obtidos
+## Resultados Obtidos
 
 * ✔ Bucket Amazon S3 protegido contra acesso público.
 * ✔ Distribuição global de conteúdo utilizando Amazon CloudFront.
@@ -88,7 +88,7 @@ A validação confirmou que o conteúdo foi entregue corretamente pela CDN, mant
 
 ---
 
-## 💡 Boas Práticas Aplicadas
+## Boas Práticas Aplicadas
 
 * Bucket Amazon S3 configurado como privado.
 * Restrição de acesso à origem utilizando Origin Access Control (OAC).
@@ -98,7 +98,7 @@ A validação confirmou que o conteúdo foi entregue corretamente pela CDN, mant
 
 ---
 
-## 📚 Principais Aprendizados
+## Principais Aprendizados
 
 Durante o desenvolvimento deste laboratório foi possível compreender, na prática:
 
